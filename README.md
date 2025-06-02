@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Mohammed Hassan
 
-<!--
-**mbahassan/mbahassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 PhD Researcher at TU Delft interested in CFD-DEM, Particle-based Simulations  
+💻 Building tools for Scientific Computation in Python, C++, and CUDA  
+📘 Passionate about Open Source and Reproducible Research  
 
-Here are some ideas to get you started:
+## 🔧 Tools & Domains
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌀 CFD-DEM | OpenFOAM + LIGGGHTS + Aspherix+ MercuryDPM + 
+- ⚙️ C++, Python, CUDA, MPI,(Learning) Rust
+- 📊 PyVista, Matplotlib, ParaView, VTK
+
+## 📌 Featured Projects
+- (soon!)
+
+## 📫 Contact
+- 💼 [LinkedIn](https://linkedin.com/in/mhdhassan)
+
