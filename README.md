@@ -1,16 +1,17 @@
-## 👋 Hi, I'm Mohammed Hassan
+## Hi 👋, I'm Mohammed Hassan
 
-🔬 PhD Researcher at TU Delft interested in CFD-DEM, Particle-based Simulations  
+🔬 Chemical Engineer interested in CFD-DEM, FEM, Particle-based Simulations
+   and Industrial scale Applications
 💻 Building tools for Scientific Computation in Python, C++, and CUDA  
 📘 Passionate about Open Source and Reproducible Research  
 
 ## 🔧 Tools & Domains
 
 - 🌀 CFD-DEM | OpenFOAM + LIGGGHTS + Aspherix+ MercuryDPM + 
-- ⚙️ C++, Python, CUDA, MPI,(Learning) Rust
+- ⚙️ C++, Python, CUDA, MPI, Rust (Learning)
 - 📊 PyVista, Matplotlib, ParaView, VTK
 
-## 📌 Featured Projects
+## 📌 Projects
 - (soon!)
 
 ## 📫 Contact
