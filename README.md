@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mohammed Hassan
 
-🔬 Chemical Engineer interested in CFD-DEM, FEM, Particle-based Simulations and Industrial scale Applications. 
+🔬 Chemical Engineer interested in CFD-DEM, FEM, Particle-based Simulations and Industrial scale Applications.  
 💻 Building tools for Scientific Computation in Python, C++, and CUDA  
 📘 Passionate about Open Source and Reproducible Research  
 
