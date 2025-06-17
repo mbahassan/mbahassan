@@ -11,6 +11,7 @@
 - ⚙️ C++, Python, CUDA, MPI, Rust (Learning)
 - 📊 PyVista, Matplotlib, ParaView, VTK
 ## Programming Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbahassan)](https://github.com/mbahassan/github-readme-stats)
 - ⚙️C++
 - ⚙️CUDA
 - ⚙️Python
