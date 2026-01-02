@@ -8,22 +8,25 @@
 ## 🔧 Tools & Domains
 
 - 🌀 CFD-DEM | OpenFOAM + LIGGGHTS + Aspherix+ MercuryDPM + 
-- ⚙️ C++, Python, CUDA, MPI, Rust (Learning)
+- ⚙️ C++/CUDA, Python, MPI, Rust (Learning)
 - 📊 PyVista, Matplotlib, ParaView, VTK
 ## Programming Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbahassan)](https://github.com/mbahassan/github-readme-stats)
-- ⚙️C++
-- ⚙️CUDA
+- ⚙️C++/CUDA
 - ⚙️Python
 - ⚙️Rust (learning)
-## 🧰 Tools 
-- 🔧OpenFOAM            🔗(https://www.openfoam.com/) 
-- 🔧MercuryDPM          🔗(https://www.mercurydpm.org/)
-- 🔧LIGGGHTS            🔗(https://github.com/ParticulateFlow/LIGGGHTS-PFM)
-- 🔧MFiX                🔗(https://mfix.netl.doe.gov/products/mfix/)
-## 📌 Projects
+## Tools 
+### CFD
+- 🔧OpenFOAM         🔗(https://www.openfoam.com/)
+### DEM
+- MercuryDPM          🔗(https://www.mercurydpm.org/)
+- LIGGGHTS            🔗(https://github.com/ParticulateFlow/LIGGGHTS-PFM)
+- MFiX                🔗(https://mfix.netl.doe.gov/products/mfix/)
+### FEM 
+- Oomphlib
+## Projects
 - (soon!)
 
-## 📫 Contact
+## Contact
 - 💼 [LinkedIn](https://linkedin.com/in/mhdhassan)
 
