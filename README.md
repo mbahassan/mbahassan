@@ -3,7 +3,7 @@
 - Building tools for scientific computation in Python, C++, and CUDA.  
 - Passionate about open-source and reproducible research.  
 ## Tools & Domains
-- CFD-DEM | OpenFOAM + LIGGGHTS + Aspherix + MercuryDPM + 
+- CFD-DEM | OpenFOAM + LIGGGHTS + Aspherix + MercuryDPM
 - C++/CUDA, Python, MPI, Rust (Learning)
 - PyVista, Matplotlib, ParaView, VTK
 ## Programming Languages 
