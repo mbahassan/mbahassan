@@ -1,32 +1,24 @@
-# Mohammed Hassan
-
-Chemical Engineer specializing in CFD-DEM, FEM, and particle-based simulations for industrial-scale applications. I build computational tools using Python, C++, and CUDA, with a strong commitment to open-source and reproducible research.
-
-## Expertise
-
-**Simulation Methods:** CFD-DEM, Finite Element Methods, Particle-based modeling
-
-**Programming:** C++, CUDA, Python, MPI, Rust *(learning)*
-
-**Visualization:** PyVista, Matplotlib, ParaView, VTK
-
-## Software & Frameworks
-
-**CFD**
+## Mohammed Hassan 
+- Chemical Engineer interested in CFD-DEM, FEM, Particle-based simulations and industrial scale applications.  
+- Building tools for scientific computation in Python, C++, and CUDA.  
+- Passionate about open-source and reproducible research.  
+## Tools & Domains
+- CFD-DEM | OpenFOAM + LIGGGHTS + Aspherix + MercuryDPM + 
+- C++/CUDA, Python, MPI, Rust (Learning)
+- PyVista, Matplotlib, ParaView, VTK
+## Programming Languages 
+- C++/CUDA
+- Python
+- Rust (learning)
+## Tools 
+*CFD*
 - [OpenFOAM](https://www.openfoam.com/)
-
-**DEM**
+*DEM*
 - [MercuryDPM](https://www.mercurydpm.org/)
 - [LIGGGHTS](https://github.com/ParticulateFlow/LIGGGHTS-PFM)
-- Aspherix
-
-**FEM**
+*FEM* 
 - [Oomphlib](https://github.com/oomph-lib/oomph-lib)
-
 ## Projects
-
-Coming soon!
-
-## Connect
-
-💼 [LinkedIn](https://linkedin.com/in/mhdhassan)
+- (soon!)
+## Contact
+- [LinkedIn](https://linkedin.com/in/mhdhassan)
