@@ -20,7 +20,6 @@
   
 **FEM** 
 - [Oomphlib](https://github.com/oomph-lib/oomph-lib)
-## Projects
-- (soon!)
+
 ## Contact
 - [LinkedIn](https://linkedin.com/in/mhdhassan)
