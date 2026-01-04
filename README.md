@@ -11,12 +11,12 @@
 - Python
 - Rust (learning)
 ## Tools 
-*CFD*
+**CFD**
 - [OpenFOAM](https://www.openfoam.com/)
-*DEM*
+**DEM**
 - [MercuryDPM](https://www.mercurydpm.org/)
 - [LIGGGHTS](https://github.com/ParticulateFlow/LIGGGHTS-PFM)
-*FEM* 
+**FEM** 
 - [Oomphlib](https://github.com/oomph-lib/oomph-lib)
 ## Projects
 - (soon!)
