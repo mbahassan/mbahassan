@@ -11,8 +11,6 @@
 - Python
 - Rust (learning)
 ## Tools 
-|CFD|DEM|
-|---|---|
 **CFD**
 - [OpenFOAM](https://www.openfoam.com/)
   
