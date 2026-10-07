@@ -4,7 +4,7 @@
 - Passionate about open-source and reproducible research.  
 ## Tools & Domains
 - CFD-DEM | OpenFOAM + LIGGGHTS + Aspherix + MercuryDPM
-- C++/CUDA, Python, MPI, Rust (Learning)
+- C++/CUDA, Python, Rust (Learning)
 - PyVista, Matplotlib, ParaView, VTK
 ## Programming Languages 
 - C++/CUDA
